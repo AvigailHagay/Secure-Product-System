@@ -4,7 +4,7 @@ export default function Navbar() {
     return (
         <nav className={'nav'}>
             <a href={'/'} className={'site-title'}>
-                <h4>Add & Search Products App</h4>
+                <h4>Secure Product System</h4>
             </a>
             <ul>
                 <li className={'active'}>
