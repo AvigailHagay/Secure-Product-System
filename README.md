@@ -1,4 +1,5 @@
 # Secure Product System
+### **Author:** Avigail Hagay
 
 This web application it's a straightforward product management system with both product input and search capabilities, while emphasizing security and user experience.
 
